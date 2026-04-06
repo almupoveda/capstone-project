@@ -136,7 +136,7 @@ The `results/` folder contains:
 
 1. Clone the repository.
 2. Install the required libraries using `requirements.txt`.
-3. Open `notebooks/Methodology.ipynb` in an environment that supports `.ipynb` files.
+3. Open `notebooks/Methodology.ipynb` using Jupyter Notebook, JupyterLab, or any compatible Python environment.
 4. Run the notebook using `data/luxury_survey_raw.csv` as the input dataset.
 5. Generate `data/luxury_survey_with_clusters.csv`.
 6. Open `notebooks/Analysis_Results.ipynb`.
