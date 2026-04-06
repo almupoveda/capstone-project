@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyses how digital engagement shapes consumer loyalty in the luxury fashion sector. Using survey data from consumers interacting with leading luxury brands, the study combines data preparation, consumer segmentation, and regression analysis to identify behavioural patterns and evaluate the drivers of loyalty.
+This project analyses how digital engagement shapes consumer loyalty in the luxury fashion sector and is part of an academic thesis exploring how digital transformation affects emotional and behavioral loyalty in luxury consumers. Using survey data from consumers interacting with leading luxury brands, the study combines data preparation, consumer segmentation, and regression analysis to identify behavioural patterns and evaluate the drivers of loyalty.
 
 The project was developed as a capstone study at the intersection of consumer analytics, digital strategy, and data science.
 
