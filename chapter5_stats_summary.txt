@@ -1,0 +1,46 @@
+=== CHAPTER V — STATISTICAL SUMMARY ===
+N = 103
+
+--- 1.1  Index Descriptive Statistics ---
+  digital_engagement_index: M = 3.602,  SD = 1.118
+  digital_experience_index: M = 3.641,  SD = 0.763
+  emotional_loyalty_index: M = 3.323,  SD = 0.965
+  behavioral_loyalty_index: M = 3.259,  SD = 0.832
+
+--- 2.1  Cluster Profiles (mean scores) ---
+
+  [Digital Loyalists]  n = 23  (22.3%)
+    digital_engagement_index: 4.033
+    digital_experience_index: 4.283
+    emotional_loyalty_index: 4.098
+    behavioral_loyalty_index: 4.174
+    purchase_freq_num: 3.217
+    online_purchase_num: 3.087
+
+  [Aspirational Observers]  n = 26  (25.2%)
+    digital_engagement_index: 2.067
+    digital_experience_index: 2.817
+    emotional_loyalty_index: 2.471
+    behavioral_loyalty_index: 2.538
+    purchase_freq_num: 2.269
+    online_purchase_num: 2.077
+
+  [Digital Explorers]  n = 54  (52.4%)
+    digital_engagement_index: 4.157
+    digital_experience_index: 3.764
+    emotional_loyalty_index: 3.403
+    behavioral_loyalty_index: 3.216
+    purchase_freq_num: 1.889
+    online_purchase_num: 2.019
+
+--- 2.2  OLS Regression (DV = Behavioral Loyalty) ---
+  R-squared = 0.5549   |   Adj. R-squared = 0.5415
+  F-statistic = 41.1481   (p = 0.0000)
+  digital_engagement_index: beta = 0.1075,  p = 0.1109
+  digital_experience_index: beta = 0.2029,  p = 0.0353
+  emotional_loyalty_index: beta = 0.4613,  p = 0.0000
+
+--- Pearson Correlations with Behavioral Loyalty ---
+  digital_engagement_index: r = 0.5437,  p = 0.0000
+  digital_experience_index: r = 0.5374,  p = 0.0000
+  emotional_loyalty_index: r = 0.7038,  p = 0.0000

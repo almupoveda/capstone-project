@@ -1,0 +1,27 @@
+                               OLS Regression Results                               
+====================================================================================
+Dep. Variable:     behavioral_loyalty_index   R-squared:                       0.555
+Model:                                  OLS   Adj. R-squared:                  0.541
+Method:                       Least Squares   F-statistic:                     41.15
+Date:                      Sun, 15 Mar 2026   Prob (F-statistic):           2.37e-17
+Time:                              10:46:56   Log-Likelihood:                -85.045
+No. Observations:                       103   AIC:                             178.1
+Df Residuals:                            99   BIC:                             188.6
+Df Model:                                 3                                         
+Covariance Type:                  nonrobust                                         
+============================================================================================
+                               coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+const                        0.6001      0.281      2.137      0.035       0.043       1.157
+digital_engagement_index     0.1075      0.067      1.609      0.111      -0.025       0.240
+digital_experience_index     0.2029      0.095      2.134      0.035       0.014       0.391
+emotional_loyalty_index      0.4613      0.071      6.527      0.000       0.321       0.602
+==============================================================================
+Omnibus:                        1.920   Durbin-Watson:                   1.418
+Prob(Omnibus):                  0.383   Jarque-Bera (JB):                1.918
+Skew:                          -0.271   Prob(JB):                        0.383
+Kurtosis:                       2.610   Cond. No.                         32.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
