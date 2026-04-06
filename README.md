@@ -145,7 +145,7 @@ The `results/` folder contains:
 
 ## Project Value
 
-This project demonstrates the application of data science methods to a strategic marketing problem. It combines:
+This project demonstrates the application of data science methods to a strategic business problem. It combines:
 
 * survey-based consumer analytics
 * clustering and segmentation
