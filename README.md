@@ -112,6 +112,17 @@ Install the required dependencies with:
 pip install -r requirements.txt
 ```
 
+## How to Use
+
+1. Clone the repository.
+2. Install the required libraries using `requirements.txt`.
+3. Open `notebooks/Methodology.ipynb` using Jupyter Notebook, JupyterLab, or any compatible Python environment.
+4. Run the notebook using `data/luxury_survey_raw.csv` as the input dataset.
+5. Generate `data/luxury_survey_with_clusters.csv`.
+6. Open `notebooks/Analysis_Results.ipynb`.
+7. Run the notebook using `data/luxury_survey_with_clusters.csv` as the input dataset.
+8. Review the outputs saved in the `results/` folder.
+
 ## Files
 
 ### Notebooks
@@ -132,16 +143,6 @@ The `results/` folder contains:
 * regression outputs
 * statistical summaries
 
-## How to Use
-
-1. Clone the repository.
-2. Install the required libraries using `requirements.txt`.
-3. Open `notebooks/Methodology.ipynb` using Jupyter Notebook, JupyterLab, or any compatible Python environment.
-4. Run the notebook using `data/luxury_survey_raw.csv` as the input dataset.
-5. Generate `data/luxury_survey_with_clusters.csv`.
-6. Open `notebooks/Analysis_Results.ipynb`.
-7. Run the notebook using `data/luxury_survey_with_clusters.csv` as the input dataset.
-8. Review the outputs saved in the `results/` folder.
 
 ## Project Value
 
